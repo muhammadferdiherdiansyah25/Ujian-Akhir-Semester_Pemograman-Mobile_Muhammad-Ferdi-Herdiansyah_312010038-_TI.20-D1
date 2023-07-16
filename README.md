@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 # Ujian-Akhir-Semester_Pemograman-Mobile_Muhammad-Ferdi-Herdiansyah_312010038-_TI.20-D1
-=======
-# UAS_Irga_Ramadhan_DatabaseAPIProject
 
 <h1>Nama: Muhammad Ferdi Herdiansyah</h1>
 <h1>Kelas: TI.20.D.1</h1>
