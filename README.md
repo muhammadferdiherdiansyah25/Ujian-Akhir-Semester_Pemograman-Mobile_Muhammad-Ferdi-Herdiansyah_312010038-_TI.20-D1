@@ -3,7 +3,7 @@
 =======
 # UAS_Irga_Ramadhan_DatabaseAPIProject
 
-<h1>Nama: Irga Ramadhan Putra</h1>
+<h1>Nama: Muhammad Ferdi Herdiansyah</h1>
 <h1>Kelas: TI.20.D.1</h1>
 <h1>Matkul : Pemograman Mobile</h1>
 1. layout
@@ -35,4 +35,3 @@
    ![image](https://github.com/IrgaRamadhanPutra/UAS_Irga_Ramadhan_DatabaseAPIProject/assets/101645216/a071015b-7afc-4c2b-b4a1-47f76b535403)
 
 
->>>>>>> b22105e (first commit)
